@@ -1,8 +1,8 @@
-**⚠️⚠️⚠️WIP not fonctional⚠️⚠️⚠️**
+**⚠️⚠️⚠️ WIP not fonctional ⚠️⚠️⚠️**
 
 A [Prettier](https://prettier.io/) plugin for Tailwind Styled Component that automatically sorts classes based on [Tailwind recommended class order](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier#how-classes-are-sorted) and based on class groups
 
-Go from 
+Go from infinite line mess 🤮
 
 ```tsx
   <div
@@ -13,7 +13,9 @@ Go from
 
 ```
 
-To 👇
+👇👇👇
+
+To clean structured classes **Automatically** ✨
 
 ```tsx
   <div
@@ -39,4 +41,4 @@ To 👇
 ```
 
 
-Automatically ✨
+
